@@ -32,6 +32,43 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Ren'Py source file
+*.rpy linguist-detectable=true
+*.rpy linguist-documentation=false
+*.rpy linguist-language=Ren'Py
+# Gosu source file (')
+*.gs linguist-detectable=true
+*.gs linguist-documentation=false
+*.gs linguist-language=Gosu
+*.gsx linguist-detectable=true
+*.gsx linguist-documentation=false
+*.gsx linguist-language=Gosu
+# Red source file
+*.red linguist-detectable=true
+*.red linguist-documentation=false
+*.red linguist-language=Red
+*.reds linguist-detectable=true
+*.reds linguist-documentation=false
+*.reds linguist-language=Red
+# Ruby source file
+*.rb linguist-detectable=true
+*.rb linguist-documentation=false
+*.rb linguist-language=Ruby
+*.rbx linguist-detectable=true
+*.rbx linguist-documentation=false
+*.rbx linguist-language=Ruby
+*.gem linguist-detectable=true
+*.gem linguist-documentation=false
+*.gem linguist-language=Ruby
+*.rake linguist-detectable=true
+*.rake linguist-documentation=false
+*.rake linguist-language=Ruby
+*.ruby linguist-detectable=true
+*.ruby linguist-documentation=false
+*.ruby linguist-language=Ruby
+*.gemspec linguist-detectable=true
+*.gemspec linguist-documentation=false
+*.gemspec linguist-language=Ruby
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +198,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Wednesday, March 1st at 12:04 pm PST)
+# Line count (including blank lines and compiler line): 211
+
 # End of script
